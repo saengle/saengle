@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - Xcode
   
 
-1일 1커밋 (1알고리즘 + @) 도전중 !
+
   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
+1일 1커밋 (1알고리즘 + @) 도전중 !
 
 - 🌱 I’m currently learning ...
 - Flutter

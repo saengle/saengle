@@ -7,6 +7,7 @@
 
 Here are some ideas to get you started:
 
+1일 1커밋 (1알고리즘 + @) 도전중 !
 
 ####  Used at least once
 - Flutter

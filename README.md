@@ -37,10 +37,10 @@ Here are some ideas to get you started:
   - Swift
   - Xcode
 
-
-  // [![Solved.ac
+<!--
+ [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zohv817)](https://solved.ac/zohv817)
-
+-->
   
    
    ![saengle's github stats](https://github-readme-stats.vercel.app/api?username=saengle&show_icons=true)
